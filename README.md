@@ -68,5 +68,3 @@
 | diff | 확산 계수 |
 | visc | 점성 계수 |
 | N | 시뮬레이션 격자 해상도 |
-
-## Project Structure
