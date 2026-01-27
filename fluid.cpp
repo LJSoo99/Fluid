@@ -1,10 +1,3 @@
-//
-//  main4.cpp
-//  nanoVGTest
-//
-//  Created by Hyun Joon Shin on 6/7/24.
-//
-
 #include <stdio.h>
 
 #define JGL2_IMPLEMENTATION
